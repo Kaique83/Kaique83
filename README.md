@@ -48,6 +48,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kaique83/Kaique83/output/snake.svg" alt="Snake animation" />
+
 
 ###
