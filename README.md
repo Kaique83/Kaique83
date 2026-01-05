@@ -36,8 +36,12 @@ My dual academic background allows me to bridge the gap between **Software Engin
 ---
 
 ### 📊 GitHub Stats
-![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaique83&show_icons=true&theme=dracula&hide_border=true&locale=en)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique83&layout=compact&theme=dracula&hide_border=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <p>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kaique83&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=en" alt="Kaique's Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique83&layout=compact&theme=dracula&hide_border=true&locale=en" alt="Top Languages" />
+  </p>
+</div>
 
 ---
 <div align="center">
