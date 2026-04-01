@@ -1,6 +1,6 @@
-# Hi, I'm Kaique Dias! 👋
+# Hi, I'm Kaique Dias! 
 
-### 🚀 Computer Science | Big Data & Analytical Intelligence
+###  Computer Science | Big Data & Analytical Intelligence
 
 I am a student passionate about understanding how systems work "under the hood" and how data drives decisions.
 
@@ -8,7 +8,7 @@ My dual academic background allows me to bridge the gap between **Software Engin
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,20 +22,20 @@ My dual academic background allows me to bridge the gap between **Software Engin
 
 ---
 
-### 🔭 Professional Focus
+###  Professional Focus
 * **Analytical Mindset:** I constantly look for patterns and optimizations, whether in code logic or network architecture.
 * **Solid Infrastructure:** Academic experience with corporate network design (VLANs, Routing, Security), ensuring a reliable foundation for data traffic.
 * **Tech Curiosity:** Linux and Hardware enthusiast, always aiming to extract maximum performance from the machine.
 
 ---
 
-### 📂 Featured Project
+###  Featured Project
 **[Corporate Infrastructure - Tupã Studios](https://github.com/Kaique83/infraestrutura-redes-tupa-studios)**
 > Network engineering project for a game studio, focused on high data availability and information security. It involved CAPEX planning (cost analysis) and complex topology design.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <div align="center">
   <p>
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kaique83&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=en" alt="Kaique's Stats" />
