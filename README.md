@@ -1,30 +1,30 @@
-# Hi, I'm Kaique Dias 👋
+# Hi, I'm Kaique Dias
 
-### Computer Science & Big Data | Data Analysis · IT Infrastructure & Networks
+### Computer Science & Big Data | Data Analysis, IT Infrastructure & Networks
 
-I'm a student who likes understanding how systems work "under the hood" — from a SQL query plan to a VLAN topology — and how that understanding turns into decisions.
+I'm a student who likes understanding how systems work under the hood, from a SQL query plan to a VLAN topology, and how that understanding turns into decisions.
 
-My dual academic background (Computer Science + Big Data & Analytical Intelligence) lets me move between **data analysis**, **software** and **infrastructure/networking**, building solutions that are technically solid and grounded in a real question, not just a technique demo.
+My dual academic background (Computer Science + Big Data & Analytical Intelligence) lets me move between data analysis, software and infrastructure/networking, building solutions that are technically solid and grounded in a real question, not just a technique demo.
 
 ---
 
-### 🔭 Featured Projects
+### Featured Projects
 
-**[📉 Customer Churn Prediction](https://github.com/Kaique83/previsao-churn-telco)** — Python, scikit-learn, Pandas
+**[Customer Churn Prediction](https://github.com/Kaique83/previsao-churn-telco)**: Python, scikit-learn, Pandas
 > Classification pipeline comparing a standard vs. class-balanced Logistic Regression model, choosing the one with higher recall (79%) based on the business cost of missing a customer about to churn.
 
-**[🛒 SQL Portfolio — Olist E-commerce](https://github.com/Kaique83/portfolio-sql-olist)** — SQL, SQLite, Pandas
-> Progressive SQL queries (from filters to window functions and CTEs) over ~100k real orders, answering concrete business questions about seasonality, logistics and customer retention.
+**[SQL Portfolio, Olist E-commerce](https://github.com/Kaique83/portfolio-sql-olist)**: SQL, SQLite, Pandas
+> Progressive SQL queries (from filters to window functions and CTEs) over about 100k real orders, answering concrete business questions about seasonality, logistics and customer retention.
 
-**[🏥 DATASUS Hospital Admissions Analysis](https://github.com/Kaique83/analise-internacoes-datasus)** — Python, Pandas, Matplotlib
-> Exploratory analysis of Brazilian public hospital admissions (2015–2024) by region and disease category.
+**[DATASUS Hospital Admissions Analysis](https://github.com/Kaique83/analise-internacoes-datasus)**: Python, Pandas, Matplotlib
+> Exploratory analysis of Brazilian public hospital admissions (2015-2024) by region and disease category.
 
-**[🌐 Tupã Studios — Corporate Network Infrastructure](https://github.com/Kaique83/infraestrutura-redes-tupa-studios)** — Cisco Packet Tracer
+**[Tupa Studios, Corporate Network Infrastructure](https://github.com/Kaique83/infraestrutura-redes-tupa-studios)**: Cisco Packet Tracer
 > Hub-and-Spoke network design for a fictional 210-employee, 4-branch game studio: VLAN segmentation, Site-to-Site VPN, OSPF routing and firewalling.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Data & Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,15 +44,15 @@ My dual academic background (Computer Science + Big Data & Analytical Intelligen
 
 ---
 
-### 🎯 Currently
+### Currently
 
-- 🎓 Finishing my degree in **Big Data & Analytical Intelligence** (dec/2026) while pursuing **Computer Science**
-- 📊 Building out a data analysis portfolio (SQL → Pandas → ML) with real, publicly available datasets
-- 🌱 Learning: Power BI and cloud fundamentals (AWS Academy Graduate — Cloud Foundations)
+- Finishing my degree in Big Data & Analytical Intelligence (dec/2026) while pursuing Computer Science
+- Building out a data analysis portfolio (SQL, Pandas, ML) with real, publicly available datasets
+- Learning Power BI and cloud fundamentals (AWS Academy Graduate, Cloud Foundations)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaique83&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=en" alt="Kaique's GitHub Stats" />
